@@ -9,5 +9,4 @@ class GitActionsApplicationTests {
 //	@Test
 	void contextLoads() {
 	}
-
 }
