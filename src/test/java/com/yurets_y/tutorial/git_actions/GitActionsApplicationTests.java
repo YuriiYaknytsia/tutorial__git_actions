@@ -3,10 +3,10 @@ package com.yurets_y.tutorial.git_actions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class GitActionsApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 }
